@@ -1,14 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
-// import {Message} from "./Message";
-// import {ListElements} from './ListElements';
-import { Naive } from './components1/Naive';
+import Header from './Components/Header';
+import MainDiv from './Components/MainDiv';
+import Footerr from './Components/Footerr';
+
 function App() {
   return (
     <div>
-      {
-             <Naive></Naive>
-      }
+     <Header></Header>
+     <MainDiv></MainDiv>
+     <Footerr></Footerr>
     </div>
   );
 }
