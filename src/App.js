@@ -1,16 +1,16 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
-import Header from './Components/Header';
-import MainDiv from './Components/MainDiv';
-import Footerr from './Components/Footerr';
+import Headerr from "./Day3/Headerr";
+import Mainn from "./Day3/Mainn";
+import Footer from "./Day3/Footer";
 
 function App() {
   return (
     <div>
-     <Header></Header>
-     <MainDiv></MainDiv>
-     <Footerr></Footerr>
-    </div>
+     <Headerr/>
+     <Mainn/>
+      <Footer/>
+     </div>
   );
 }
 

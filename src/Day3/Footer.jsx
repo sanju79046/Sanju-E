@@ -4,7 +4,10 @@ const Footerr = () => {
   return (
     <div>
       <hr></hr>
-      <h2>123@gmail.com</h2>
+      <center>
+
+      <h2>Please Enter you email id and password</h2>
+      </center>
       <hr></hr>
     </div>
   );
