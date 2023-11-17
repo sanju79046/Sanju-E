@@ -1,0 +1,13 @@
+.paragraph{
+    font-size: x-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    font-style: oblique;
+    color: rgb(16, 18, 71);
+    text-align: left;
+    justify-content: center;
+    margin: 100px;
+  padding: 0;
+  border-radius: 45cqmax;
+  box-sizing: border-box;
+}
